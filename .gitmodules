@@ -1,0 +1,3 @@
+[submodule "libapp"]
+	path = libapp
+	url = https://github.com/sju0924/libapp.git
