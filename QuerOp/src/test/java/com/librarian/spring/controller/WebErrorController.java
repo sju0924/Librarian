@@ -9,7 +9,7 @@ public class WebErrorController implements ErrorController {
 
     @GetMapping("/error")
     public String redirectRoot() {
-        return "index.html";
+        return "error.html";
     }
 
     public String getErrorPath() {
