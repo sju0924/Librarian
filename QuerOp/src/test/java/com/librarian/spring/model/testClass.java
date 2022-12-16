@@ -20,4 +20,7 @@ public class testClass {
 
     @Column
     private Integer year;
+
+    @Column
+    private Integer Genre;
 }
